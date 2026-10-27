@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Cockroach mascot">
+  <g stroke="#1B2A6B" stroke-width="6" stroke-linecap="round" fill="none">
+    <path d="M70 80 L30 60 L18 40"/><path d="M70 105 L26 105 L12 125"/><path d="M75 130 L40 160 L36 182"/>
+    <path d="M130 80 L170 60 L182 40"/><path d="M130 105 L174 105 L188 125"/><path d="M125 130 L160 160 L164 182"/>
+    <path d="M90 36 Q80 12 62 10"/><path d="M110 36 Q120 12 138 10"/>
+  </g>
+  <ellipse cx="100" cy="112" rx="42" ry="60" fill="#FF9933" stroke="#1B2A6B" stroke-width="6"/>
+  <rect x="60" y="100" width="80" height="24" fill="#fff"/>
+  <path d="M60 100 H140 M62 124 H138" stroke="#1B2A6B" stroke-width="4"/>
+  <path d="M60 124 Q100 176 140 124 Z" fill="#138808" stroke="#1B2A6B" stroke-width="5" stroke-linejoin="round"/>
+  <circle cx="100" cy="112" r="9" fill="none" stroke="#1B2A6B" stroke-width="3"/>
+  <g stroke="#1B2A6B" stroke-width="2"><path d="M100 103V121M91 112H109M94 106L106 118M106 106L94 118"/></g>
+  <circle cx="100" cy="46" r="22" fill="#FF9933" stroke="#1B2A6B" stroke-width="6"/>
+  <circle cx="91" cy="44" r="6" fill="#fff" stroke="#1B2A6B" stroke-width="3"/><circle cx="109" cy="44" r="6" fill="#fff" stroke="#1B2A6B" stroke-width="3"/>
+  <circle cx="92" cy="45" r="2.5" fill="#1B2A6B"/><circle cx="110" cy="45" r="2.5" fill="#1B2A6B"/>
+  <path d="M92 56 Q100 62 108 56" stroke="#1B2A6B" stroke-width="3" fill="none" stroke-linecap="round"/>
+</svg>

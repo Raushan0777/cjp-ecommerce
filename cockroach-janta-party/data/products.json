@@ -1,0 +1,8 @@
+[
+  { "id": "tee-classic", "name": "Classic Roach Tee", "price": 599, "sizes": ["S","M","L","XL"], "tag": "Bestseller", "colors": ["#FF9933", "#138808"] },
+  { "id": "hoodie-tiranga", "name": "Tiranga Hoodie", "price": 1499, "sizes": ["M","L","XL"], "tag": "New", "colors": ["#FF9933", "#FFFFFF", "#138808"] },
+  { "id": "tee-janta", "name": "Janta Voice Tee", "price": 699, "sizes": ["S","M","L","XL"], "tag": "", "colors": ["#FFFFFF", "#1B2A6B"] },
+  { "id": "cap-roach", "name": "Survivor Cap", "price": 399, "sizes": ["Free"], "tag": "", "colors": ["#138808"] },
+  { "id": "tote-party", "name": "Party Tote Bag", "price": 349, "sizes": ["Free"], "tag": "", "colors": ["#FF9933"] },
+  { "id": "sticker-pack", "name": "Sticker Pack (10)", "price": 149, "sizes": ["Free"], "tag": "", "colors": ["#1B2A6B"] }
+]
